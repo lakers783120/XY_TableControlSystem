@@ -1,0 +1,12 @@
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\HMI_WindowsForms\obj\Debug\HMI_WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\HMI_WindowsForms\obj\Debug\HMI_WindowsForms.MainForm.resources
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\HMI_WindowsForms\obj\Debug\HMI_WindowsForms.csproj.GenerateResource.Cache
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\HMI_WindowsForms\bin\Debug\HMI_WindowsForms.exe.config
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\HMI_WindowsForms\bin\Debug\HMI_WindowsForms.exe
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\HMI_WindowsForms\bin\Debug\HMI_WindowsForms.pdb
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\HMI_WindowsForms\bin\Debug\XY_TableCommunicationLibrary.dll
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\HMI_WindowsForms\bin\Debug\XY_TableCommunicationLibrary.pdb
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\HMI_WindowsForms\obj\Debug\HMI_WindowsForms.Properties.Resources.resources
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\HMI_WindowsForms\obj\Debug\HMI_WindowsForms.exe
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\HMI_WindowsForms\obj\Debug\HMI_WindowsForms.pdb
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\HMI_WindowsForms\obj\Debug\HMI_WindowsForms.XY_TableCurrentPositionForm.resources

@@ -1,0 +1,8 @@
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XY_TableCommunicationLibrary", "XY_TableCommunicationLibrary\XY_TableCommunicationLibrary.csproj", "{418BB442-F404-4DD1-A748-2689F4468582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMI_WindowsForms", "HMI_WindowsForms\HMI_WindowsForms.csproj", "{5800FE27-EEF3-450E-8A37-18FA91A6A7AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{52444F1A-B757-41CD-BEC7-7A8C2D5A619A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{418BB442-F404-4DD1-A748-2689F4468582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418BB442-F404-4DD1-A748-2689F4468582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418BB442-F404-4DD1-A748-2689F4468582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418BB442-F404-4DD1-A748-2689F4468582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5800FE27-EEF3-450E-8A37-18FA91A6A7AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5800FE27-EEF3-450E-8A37-18FA91A6A7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5800FE27-EEF3-450E-8A37-18FA91A6A7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5800FE27-EEF3-450E-8A37-18FA91A6A7AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52444F1A-B757-41CD-BEC7-7A8C2D5A619A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52444F1A-B757-41CD-BEC7-7A8C2D5A619A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52444F1A-B757-41CD-BEC7-7A8C2D5A619A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52444F1A-B757-41CD-BEC7-7A8C2D5A619A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

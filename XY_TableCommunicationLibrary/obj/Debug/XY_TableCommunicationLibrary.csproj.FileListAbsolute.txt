@@ -1,0 +1,5 @@
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\XY_TableCommunicationLibrary\bin\Debug\XY_TableCommunicationLibrary.dll
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\XY_TableCommunicationLibrary\bin\Debug\XY_TableCommunicationLibrary.pdb
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\XY_TableCommunicationLibrary\obj\Debug\XY_TableCommunicationLibrary.dll
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\XY_TableCommunicationLibrary\obj\Debug\XY_TableCommunicationLibrary.pdb
+C:\Users\HennChou\Documents\Visual Studio 2012\Projects\XY_TableControlSystem\XY_TableCommunicationLibrary\obj\Debug\XY_TableCommunicationLibrary.csprojResolveAssemblyReference.cache
